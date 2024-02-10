@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Testing-Selenium">
+  <test  name="Testing-Sanity">
+    <classes>
+      <class name="day1.Classes"/>
+      <class name="day1.SeleniumTest"/>
+    </classes>
+  </test> <!-- Testing-Sanity -->
+</suite> <!-- Testing-Selenium -->
